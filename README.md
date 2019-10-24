@@ -13,3 +13,8 @@ A book reviews and blogs platform!
 * Or write a blog/story related to it and comment on other blogs there.
 
 * Finally users cna suggest to add new book spaces for new books.
+
+
+
+
+Developed with Angular and Spring Boot.
