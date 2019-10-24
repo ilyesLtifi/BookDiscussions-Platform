@@ -6,6 +6,8 @@ A book reviews and blogs platform!
 
 * Every "book space" will consist of reviews and blogs.
 
+* Users can join book spaces to be notified of any new activity in them.
+
 * Each user can give that book a rating + a short review.
 
 * Or write a blog/story related to it and comment on other blogs there.
